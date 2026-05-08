@@ -25,7 +25,7 @@ Main artifact:
 - **Regressor:** `RandomForestRegressor(n_estimators=200, random_state=42)`
 
 Notebook evaluation output:
-- **MAE:** `87644.16700000002`
+- **MAE:** `87644.17`
 - **R² Score:** `0.9211971106843113`
 
 ## Requirements
